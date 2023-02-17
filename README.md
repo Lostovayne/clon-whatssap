@@ -18,7 +18,7 @@ Clon de whatssap usando rediseño de tailwind
 
 ## Demo
 
-Insert gif or link to demo
+https://shimmering-bubblegum-a41220.netlify.app
 
 
 ## Screenshots
